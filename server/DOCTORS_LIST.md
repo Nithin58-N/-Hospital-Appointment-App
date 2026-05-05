@@ -28,15 +28,6 @@ All doctors have the following available time slots:
 - 04:00 PM (16:00)
 - 05:00 PM (17:00)
 
-## Login Credentials
-
-All doctors can login with:
-- **Password**: `doctor123`
-
-Example:
-- **Email**: sarah.smith@hospital.com
-- **Password**: doctor123
-
 ## Specializations Available
 
 1. **Cardiology** - Heart and cardiovascular system
